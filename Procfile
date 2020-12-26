@@ -1,1 +1,1 @@
-web: python tipbot/app.py
+worker: python tipbot/app.py
