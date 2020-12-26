@@ -19,7 +19,7 @@ def main():
     db.connect()
     db.create_tables([User], safe=True)
 
-    updater = Updater(TOKEN)
+    updater = Updater(1492536964:AAHspI1-ONK5O6YjT1NstO9g717GfxJryQk)
 
     # Commands
     updater.dispatcher.add_handler(CommandHandler("start", start))
