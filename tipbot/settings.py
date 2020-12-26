@@ -9,13 +9,13 @@ except KeyError:
 
 
 try:
-    TOKEN = os.environ["TOKEN"]
+    TOKEN = os.environ["1492536964:AAHspI1-ONK5O6YjT1NstO9g717GfxJryQk"]
 except KeyError:
     # This Token is for the test bot.
     # It is recommended that you create your own bot for testing and create the
     # TOKEN environment variable.
     # I will still leave my test token here for quick testing.
-    TOKEN = "892772409:AAGQk_Fyz3Uelwvhoq8yUmRXPUuTxnFFIfY"
+    TOKEN = "1492536964:AAHspI1-ONK5O6YjT1NstO9g717GfxJryQk"
 
 
 # Your output BCH address
